@@ -1,4 +1,4 @@
-## Hellou my name is Pedro Ayres.👋
+## Helou my name is Pedro Ayres.👋
 ## I am a full stack developer, passionate about programming! 👨‍💻
 
 **Programming languages**
@@ -11,6 +11,7 @@
     <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
     <img align="center" alt="postgress" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
     <img align="center" alt="excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+    <img align="center" alt="git" src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white"/>
 </div><br/>
 
 **Programming IDE's**
