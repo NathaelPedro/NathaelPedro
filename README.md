@@ -1,4 +1,5 @@
 ## Hellou my name is Pedro Ayres.👋
+## I am a full stack developer, passionate about programming! 👨‍💻
 
 **Programming languages**
 <div style="display: inline_block"><br/>
@@ -15,4 +16,3 @@
 <div style="display: inline_block"><br/>
     <img align="center" alt="visualstudio" src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC"/> 
 </div><br/>
-https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
