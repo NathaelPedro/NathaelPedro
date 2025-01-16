@@ -16,5 +16,5 @@
 <div style="display: inline_block"><br/>
     <img align="center" alt="visualstudio" src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC"/> 
 </div><br/>
-<img display='center'  justify-content='center' align-items='center' height='200vh' max-width='100%' src="https://github-readme-stats.vercel.app/api?username=PedroAyres&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
+<img align='center' src="https://github-readme-stats.vercel.app/api?username=PedroAyres&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
 
