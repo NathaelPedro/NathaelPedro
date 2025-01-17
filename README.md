@@ -2,7 +2,7 @@
 ## I am a full stack developer, passionate about programming! 👨‍💻
 
 **My skills as a programmer**
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+<div style="display: flex; justify-content: flex-start; flex-wrap: wrap;">
     <div>
         <img alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/><br/>
         <img alt="css3" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/><br/>
@@ -16,8 +16,9 @@
         <img alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/><br/>
         <img alt="visualstudio" src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC"/>
     </div>
-    <div style="margin-left: auto;">
+    <div style="margin-left: auto; flex-shrink: 0;">
         <img src="https://github-readme-stats.vercel.app/api?username=PedroAyres&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
     </div>
 </div>
+
 
