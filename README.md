@@ -2,7 +2,7 @@
 ## I am a full stack developer, passionate about programming! 👨‍💻
 
 **My skills as a programmer**
-<div style="display: inline-block;">
+<div style="display: inline-flex;">
     <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/><br/>
     <img align="center" alt="css3" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/><br/>
@@ -14,7 +14,7 @@
     <img align="center" alt="git" src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white"/><br/>
     <img align="center" alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/><br/>
     <img align="center" alt="visualstudio" src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC"/>
-        <div style="display: flex;">
+        <div style="display: inline-flex;">
     <img align='right' src="https://github-readme-stats.vercel.app/api?username=PedroAyres&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
     </div>
 </div>
